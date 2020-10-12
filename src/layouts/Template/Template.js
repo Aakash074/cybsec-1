@@ -79,7 +79,7 @@ class Component extends React.Component {
                   ref={ref => (this.enterElement = ref)}
                   audio={{ silent: true }}
                   animation={{ independent: true, show: enterAnimationShow }}
-                  message='CybSec NITW uses sounds.'
+                  message='VULNCON uses sounds.'
                   option='Enter'
                   onOption={this.onEnter}
                 />
