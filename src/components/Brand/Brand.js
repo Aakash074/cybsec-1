@@ -136,7 +136,7 @@ class Component extends React.Component {
             <Link href='#'>
             <Text
             >
-            CYBSEC NITW
+            VULNCON
             </Text>
             </Link>
             </center>
