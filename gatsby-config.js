@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
-        name: 'CybSec NITW',
-        short_name: 'CybSec',
+        name: 'VULNCON',
+        short_name: 'VulnCon',
         start_url: '/',
         background_color: '#000000',
         theme_color: '#000000',
